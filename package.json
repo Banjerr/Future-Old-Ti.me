@@ -8,7 +8,9 @@
     "react-scripts": "0.8.5"
   },
   "dependencies": {
+    "firebase": "^4.8.2",
     "react": "^16.1.1",
+    "react-beautiful-dnd": "^4.0.0",
     "react-dom": "^16.1.1"
   },
   "homepage": "./",
